@@ -7,10 +7,9 @@
 Clustering the Neighbourhoods of London and Paris
   <br>
   <br>
-Thomas George Thomas
-<br>
+Ahmet Furkan Yegen<br>
   <br>
-18th August 2020
+24th January 2020
 </h2>
 
 ### Project Links:
@@ -477,7 +476,6 @@ We could see that each of the neighbourhoods in both the cities have a wide vari
 
 Both Paris and London seem to offer a vacation stay or a romantic getaway with a lot of places to explore, beautiful landscapes, amazing food and a wide variety of culture. Overall, it's upto the stakeholders to decide which experience they would prefer more and which would more to their liking.
 
-The detailed code is available on GitHub
 
 # References
 1.   [The Battle of Neighbourhood — My London’s Perspective by Dayo John](https://medium.com/@oludayo.oguntoyinbo/the-battle-of-neighbourhood-my-londons-perspective-d363163771e0)
